@@ -1,0 +1,8 @@
+C:\Users\serez\source\repos\scrambler\scrambler\bin\Release\scrambler.exe
+C:\Users\serez\source\repos\scrambler\scrambler\bin\Release\scrambler.pdb
+C:\Users\serez\source\repos\scrambler\scrambler\obj\Release\scrambler.csprojAssemblyReference.cache
+C:\Users\serez\source\repos\scrambler\scrambler\obj\Release\scrambler.Properties.Resources.resources
+C:\Users\serez\source\repos\scrambler\scrambler\obj\Release\scrambler.csproj.GenerateResource.cache
+C:\Users\serez\source\repos\scrambler\scrambler\obj\Release\scrambler.csproj.CoreCompileInputs.cache
+C:\Users\serez\source\repos\scrambler\scrambler\obj\Release\scrambler.exe
+C:\Users\serez\source\repos\scrambler\scrambler\obj\Release\scrambler.pdb
